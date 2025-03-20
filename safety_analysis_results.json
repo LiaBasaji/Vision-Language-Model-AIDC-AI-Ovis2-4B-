@@ -1,0 +1,95 @@
+{
+    "/media/e80601/20T/liaqat/data/20250305_Factory_Fire_10.jpg": {
+        "environment": "Unsafe",
+        "personnel_status": "Unsafe",
+        "environment_issues": [
+            "Large fire with thick black smoke",
+            "Exposed metal structures",
+            "Dilapidated and damaged surroundings"
+        ],
+        "personnel_issues": [
+            "Walking towards the fire",
+            "No visible protective gear",
+            "No apparent emergency response"
+        ],
+        "alerts": [
+            "Immediate evacuation required",
+            "Firefighters needed",
+            "Potential structural collapse"
+        ]
+    },
+    "/media/e80601/20T/liaqat/data/20250305_Factory_Fire1_145.jpg": {
+        "environment": "Safe",
+        "personnel_status": "Safe",
+        "environment_issues": [
+            "Black floor tiles",
+            "White lockers",
+            "Folding chairs with yellow-black tape",
+            "Posters on walls"
+        ],
+        "personnel_issues": [
+            "Wearing a blue hard hat"
+        ],
+        "alerts": [
+            "Red fire alarm in the distance"
+        ]
+    },
+    "/media/e80601/20T/liaqat/data/20250305_Factory_Fire1_24.jpg": {
+        "environment": "Unsafe",
+        "personnel_status": "Unsafe",
+        "environment_issues": [
+            "Smoke or fire visible in the background",
+            "Emergency situation indicated by smoke"
+        ],
+        "personnel_issues": [
+            "Two individuals in high-visibility vests and hard hats"
+        ],
+        "alerts": [
+            "Urgent evacuation or safety drill in progress"
+        ]
+    },
+    "/media/e80601/20T/liaqat/data/20250305_Factory_Fire1_2.jpg": {
+        "environment": "Safe",
+        "personnel_status": "Safe",
+        "environment_issues": [
+            "Chairs with yellow and black caution tape on seats",
+            "Empty chairs lined up against the wall"
+        ],
+        "personnel_issues": [
+            "Person on the left holding a blue hard hat"
+        ],
+        "alerts": []
+    },
+    "/media/e80601/20T/liaqat/data/20250305_Factory_Fire1_58.jpg": {
+        "environment": "Unsafe",
+        "personnel_status": "Unsafe",
+        "environment_issues": [
+            "White smoke or fog obscuring visibility",
+            "Potential fire hazard"
+        ],
+        "personnel_issues": [
+            "Worker in front bent over, possibly in distress",
+            "Worker behind holding hose, potentially unaware of danger"
+        ],
+        "alerts": [
+            "Fire alert visible on wall"
+        ]
+    },
+    "/media/e80601/20T/liaqat/data/20250305_Factory_Fire_107.jpg": {
+        "environment": "Unsafe",
+        "personnel_status": "Unsafe",
+        "environment_issues": [
+            "Large fire with thick black smoke",
+            "Exposed metal framework",
+            "Dilapidated and damaged structure"
+        ],
+        "personnel_issues": [
+            "Walking towards the fire",
+            "Not wearing proper protective gear"
+        ],
+        "alerts": [
+            "Immediate evacuation required",
+            "Firefighters and emergency services needed"
+        ]
+    }
+}
